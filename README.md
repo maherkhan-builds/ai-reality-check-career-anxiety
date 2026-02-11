@@ -1,3 +1,7 @@
+# Built with Generative AI
+
+This project explores practical applications of LLM-powered systems using Google Gemini and modern TypeScript architectures.
+
 # Ai-reality-check-career-anxiety
 
 **Industry:** Mental Health / Workplace Wellbeing / Professional Resilience  
