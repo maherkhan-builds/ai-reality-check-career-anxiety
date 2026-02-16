@@ -6,7 +6,7 @@ This project explores practical applications of LLM-powered systems using Google
 
 **Industry:** Mental Health / Workplace Wellbeing / Professional Resilience  
 **Part of AI App Challenge**  
-**Building one AI app per day using vibe-coding (prompt → prototype), focused on one industry problem at a time.**
+**Building one AI app per day using vibe-coding , focused on one industry problem at a time.**
 
 ---
 
